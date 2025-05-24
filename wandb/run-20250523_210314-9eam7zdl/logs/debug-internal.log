@@ -1,0 +1,7 @@
+{"time":"2025-05-23T21:03:16.772034361+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cassanova/Documents/sign language classification/Pytorch-Sign-Language-Detection_CURRENT/wandb/run-20250523_210314-9eam7zdl/logs/debug-core.log"}
+{"time":"2025-05-23T21:03:17.190222015+07:00","level":"INFO","msg":"created new stream","id":"9eam7zdl"}
+{"time":"2025-05-23T21:03:17.190250941+07:00","level":"INFO","msg":"stream: started","id":"9eam7zdl"}
+{"time":"2025-05-23T21:03:17.190282194+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"9eam7zdl"}
+{"time":"2025-05-23T21:03:17.190286706+07:00","level":"INFO","msg":"handler: started","stream_id":"9eam7zdl"}
+{"time":"2025-05-23T21:03:17.190289148+07:00","level":"INFO","msg":"sender: started","stream_id":"9eam7zdl"}
+{"time":"2025-05-23T21:03:17.674557044+07:00","level":"INFO","msg":"Starting system monitor"}
